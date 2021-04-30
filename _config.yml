@@ -1,1 +1,3 @@
-baseurl: https://pasindujr.github.io/ATIGpro
+markdown: redcarpet
+baseurl: /ATIGpro
+exclude: ['README.md']
