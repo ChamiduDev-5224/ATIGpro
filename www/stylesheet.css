@@ -5,3 +5,35 @@
 #mainNav {
     background-color: #E8CECE;
 }
+
+#home-announcement {
+    background-color: #E4DFDF;
+    padding: 1em;
+    color: #FC0A0A;
+    border-style: solid;
+    border-color: black;
+}
+
+#home-p {
+    padding-top: 2em;
+    line-height: 1.8em;
+}
+
+#footer {
+    width: auto;
+    max-width: full;
+    padding: 10;
+  }
+
+.footer {
+    background-color: rgb(53, 54, 53);
+    color: white;
+}
+
+#ann-heading {
+    background-color: #C4C4C4;
+    padding: 2em;
+    border: 1px solid black;
+    text-align: center;
+    
+}
